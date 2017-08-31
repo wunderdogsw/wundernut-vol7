@@ -1,6 +1,6 @@
 # Wunderpähkina vol. 7
 
-(Scroll down for English instructions.)
+(Scroll [down](#brilliant-cut-english) for English instructions.)
 
 ## Brilliant cut
 
