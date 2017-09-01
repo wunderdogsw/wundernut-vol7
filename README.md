@@ -18,7 +18,7 @@ Esimerkki: 23 kokoinen raakatimanttikimpale voidaan leikata näillä tavoilla:
 
 | Leikkaukset | Arvo | Hävikki | Voitto |
 |-------------|------|---------|--------|
-|17|25|8|19|
+|17|25|6|19|
 |11, 11|14+14=28|1|27|
 |7, 7, 7|21|2|19|
 |11, 7|21|5|16|
@@ -55,7 +55,7 @@ For example: a raw diamond chunk size 23 can be cut in the following ways:
 
 | Cuts | Value | Waste | Profit |
 |-------------|------|---------|--------|
-|17|25|8|19|
+|17|25|6|19|
 |11, 11|14+14=28|1|27|
 |7, 7, 7|21|2|19|
 |11, 7|21|5|16|
