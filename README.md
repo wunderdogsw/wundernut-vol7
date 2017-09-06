@@ -62,7 +62,7 @@ For example: a raw diamond chunk size 23 can be cut in the following ways:
 |11|14|12|2|
 |7|7|16|-9|
 
-Please send us the largest profit that may result from cutting the jewelleries, and the source code you used. 
+Please send us the largest profit that may result from cutting the gems, and the source code you used.
 
 ### Rules
 
